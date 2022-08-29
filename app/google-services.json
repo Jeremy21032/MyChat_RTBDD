@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "677667006544",
+    "firebase_url": "https://fbandroid-74e18-default-rtdb.firebaseio.com",
+    "project_id": "fbandroid-74e18",
+    "storage_bucket": "fbandroid-74e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677667006544:android:62369c7aadd6f639ab0955",
+        "android_client_info": {
+          "package_name": "com.example.fbandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677667006544-bpat3bm67i7cnvkkodd87h5k8q0gp4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViRXtik9W89Ulnr8awmWgEOTyIqDEbug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677667006544-bpat3bm67i7cnvkkodd87h5k8q0gp4al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677667006544:android:ea27a8151dedd2e8ab0955",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677667006544-bpat3bm67i7cnvkkodd87h5k8q0gp4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViRXtik9W89Ulnr8awmWgEOTyIqDEbug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677667006544-bpat3bm67i7cnvkkodd87h5k8q0gp4al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
